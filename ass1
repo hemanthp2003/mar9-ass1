@@ -1,0 +1,7 @@
+
+
+str= "Aditya educational institutes"
+
+str1=str.count("Aditya")
+
+print(str1)
